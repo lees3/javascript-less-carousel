@@ -1,0 +1,5 @@
+.carousel-items > div {
+  display: none;
+}
+
+#arsinoitherium-control:checked ~ .carousel-inner #arsinoitherium,
